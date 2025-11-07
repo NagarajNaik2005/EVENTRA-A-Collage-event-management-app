@@ -1,4 +1,4 @@
-# 🎉 Eventra – College Event Management Web App
+# 🎉 EVENTRA – College Event Management Web App
 
 **Eventra** is a full-stack web application designed to simplify and automate college event management.  
 Students can log in, view upcoming and recent events, register for cultural or sports sub-events, and track their registrations in a personal dashboard.
